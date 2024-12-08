@@ -10,4 +10,8 @@ Along with this we use The graph to create a custom Graphql Api that allows us t
 ALso we planned on using Eigenlayers Actively validated service to set up our own customm version of the UMA optimistic oracle and get it to work with all the services integrated together ointo one, thus allowing us to leverage all these into one.
 
 ## Arcitecture
+So our app is based on 4 components 
 
+![arch](image.png)
+
+The idea is to host all the predicition market logic on chain,the betting,the Oracle everything on chain.
