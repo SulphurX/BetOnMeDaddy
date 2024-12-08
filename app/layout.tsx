@@ -8,8 +8,8 @@ import { authOptions } from "./api/auth/[...nextauth]/route";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Okto React SDK",
-  description: "Okto React SDK",
+  title: "BetOnMeDaddy",
+  description: "It is a gamified prediction market platform",
 };
 
 export default async function RootLayout({

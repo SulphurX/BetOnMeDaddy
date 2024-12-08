@@ -26,7 +26,7 @@ export function Navbar() {
               height={32}
               className="w-8 h-8"
             /> */}
-            <span className="text-xl font-semibold">Sulphur</span>
+            <span className="text-xl font-semibold">BetOnMeDaddy</span>
           </div>
         </a>
         

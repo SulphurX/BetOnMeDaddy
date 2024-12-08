@@ -20,7 +20,7 @@ export default function LandingPage() {
             height={32}
             className="w-8 h-8"
           />
-          <span className="text-xl font-semibold">Sulphur</span>
+          <span className="text-xl font-semibold">BetOnMeDaddy</span>
         </div>
         
         <div className="hidden md:flex items-center gap-8">
