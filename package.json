@@ -4,6 +4,10 @@
   "scripts": {
     "build": "turbo build",
     "dev": "turbo dev",
+    "dev:web": "turbo dev --scope=web",
+    "dev:avs": "turbo dev --scope=avs",
+    "dev:tlsn": "turbo dev --scope=tlsn",
+    "dev:ui": "turbo dev --scope=ui",
     "lint": "turbo lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
